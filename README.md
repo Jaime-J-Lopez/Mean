@@ -1,5 +1,5 @@
 # Mean Stack Project
-## Purpose To Familiarize myself with the Mean Stack in a Posting forum project.
+## Purpose to become familiar with the Mean Stack. With a Posting form project.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
